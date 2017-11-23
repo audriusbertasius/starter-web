@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> Audrius <role> Tester <twitter>
 
 # THANKS
 
